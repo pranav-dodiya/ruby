@@ -36,7 +36,7 @@ class Price_calculator
         end
         puts ""
         puts "Total Price: $#{total_amount.round(2)}"
-		puts "You saved $#{saving_amount.round(2)} Today!"
+	puts "You saved $#{saving_amount.round(2)} Today!"
     end
 end
 puts "Please Enter all the items purchased saperated by a comma"
